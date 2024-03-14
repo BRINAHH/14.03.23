@@ -37,4 +37,10 @@ body {
   
   .next {
     right: 0;
-  }
+}
+
+button {
+    background-color: aliceblue;
+    color: #ffaed4;
+    border: none;
+}
